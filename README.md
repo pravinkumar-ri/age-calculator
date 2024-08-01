@@ -1,5 +1,11 @@
 # Age Calculator
 
-### It is Desinged by Using HTML5, CSS3 and Javascript
+## Language Used
 
-[Age Calculator](https://age-calculator-ri.netlify.app/)
+- HTML
+- CSS
+- Javascript
+
+## Link
+
+- https://age-calculator-ri.netlify.app/
