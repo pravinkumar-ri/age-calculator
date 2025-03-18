@@ -1,10 +1,6 @@
 # Age Calculator
 
-## Language Used
-
-- HTML
-- CSS
-- Javascript
+#### Developed by HTML, CSS and Javascript
 
 ## Link
 
